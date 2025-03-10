@@ -1,0 +1,16 @@
+lead_first_name = Sai
+lead_last_name = S
+lead_company = Stay_Positive
+contact_last_name = Siva
+lead_convert_success_msg = Your lead has been converted
+
+#usecase 2
+new_account_name = Chandru
+new_contact_first_name = Chandru
+new_contact_last_name = Siva
+new_opportunity_name = Circle
+opportunity_closing_date = 31/12/2024
+
+success_msg_contact = Open Chandru Siva Preview
+success_msg_opp = Open Circle Preview
+
